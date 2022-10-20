@@ -1,0 +1,11 @@
+.col-12{
+    background-color: orange;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.col-4{
+    background-color: aquamarine;
+}
+.col-4.nav{
+    left: 90px;
+}
